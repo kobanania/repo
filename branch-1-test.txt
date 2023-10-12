@@ -1,1 +1,1 @@
-dodaje na tescie 1 w branchu1
+teraz chce zmienic plik 1 na branchu2
